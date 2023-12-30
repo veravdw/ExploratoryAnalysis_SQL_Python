@@ -7,7 +7,7 @@ This project is an exploratory analysis, aiming to get first insights into the a
 
 ## Format
 
-The analysis is performed in a Jupyter notebook, and can be opened in any IDE that supports Jupyter notebook files (.ipynb).
+The analysis is performed in a Jupyter notebook, using SQL and Python.
 
 ## Dataset 
 
